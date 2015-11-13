@@ -4,8 +4,15 @@
         <description><![CDATA[Learning The Grid]]></description>
         <link>https://thegrid.ai/learningthegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 15:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 16:03:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learningthegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Posts are Disappearing]]></title>
+            <description><![CDATA[<article><h1>Posts are Disappearing</h1><p>I've lost one and can't edit the others</p></article>]]></description>
+            <link>https://thegrid.ai/learningthegrid/posts-are-disappearing/index.html</link>
+            <guid isPermaLink="false">2f648425-e7a4-4ae5-ace2-ed336f603bc1</guid>
+            <pubDate>Fri, 13 Nov 2015 16:03:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5d4f7f-5f18-4bc3-b248-71ada17e615d.jpg">]]></description>
