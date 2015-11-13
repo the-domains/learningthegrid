@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'At this point, I know only enough to be frustrated.'
-datePublished: '2015-11-13T23:50:36.872Z'
-dateModified: '2015-11-13T23:49:16.672Z'
+datePublished: '2015-11-13T23:51:10.751Z'
+dateModified: '2015-11-13T23:50:36.872Z'
 title: Afternoon of Day 2
 authors: []
 publisher:
