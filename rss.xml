@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[LearningTheGrid]]></title>
         <description><![CDATA[LearningTheGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/learningthegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:14:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 14:58:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/learningthegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Next Day]]></title>
+            <description><![CDATA[<article><h1>The Next Day</h1><p>Things aren't shaping up for me yet, but I'm posting again anyway.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b315473-1558-40fe-ae4c-cf626de22df2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/learningthegrid/the-next-day/index.html</link>
+            <guid isPermaLink="false">3a75b7ba-b19e-450a-a399-ab19b1ab694d</guid>
+            <pubDate>Fri, 13 Nov 2015 14:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>This is my first post on The Grid.</p></article>]]></description>
+            <link>https://thegrid.ai/learningthegrid/first-post/index.html</link>
+            <guid isPermaLink="false">fd4150fc-1d0c-4c3a-bf92-92bd61e873b5</guid>
+            <pubDate>Thu, 12 Nov 2015 23:30:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/learningthegrid/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">96a460ed-bccf-438f-b0e0-8baf992b4890</guid>
             <pubDate>Thu, 12 Nov 2015 23:27:40 GMT</pubDate>
         </item>
