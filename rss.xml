@@ -4,8 +4,15 @@
         <description><![CDATA[Learning The Grid]]></description>
         <link>https://thegrid.ai/learningthegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 14:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 14:41:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learningthegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Up with Titles?]]></title>
+            <description><![CDATA[<article><h1>What's Up with Titles?</h1><p>Why Isn't The Grid Showing My Post Titles?</p></article>]]></description>
+            <link>https://thegrid.ai/learningthegrid/whats-up-with-titles/index.html</link>
+            <guid isPermaLink="false">fd531f89-40ac-4611-a2fd-bdc5c117b943</guid>
+            <pubDate>Sat, 14 Nov 2015 14:41:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playing with Design Sliders]]></title>
             <description><![CDATA[<article><h1>Playing with Design Sliders</h1><p>It's endlessly entertaining</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7319335-5516-4071-b6a3-ffb830f4d718.jpg"></article>]]></description>
