@@ -1,7 +1,7 @@
 name: LearningTheGrid
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0
+layout_spectrum: 0.5
+typography_spectrum: 0.5
 title: Learning The Grid
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#1d2621'
     - '#42453a'
     - '#b8b8b8'
-  brandStrength: 0.8125
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.234767
   rhythmicContrast: 0.3028674
