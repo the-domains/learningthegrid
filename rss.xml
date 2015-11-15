@@ -4,8 +4,15 @@
         <description><![CDATA[Learning The Grid]]></description>
         <link>https://thegrid.ai/learningthegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 12:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 12:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learningthegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>And then, just as I thought I was beginning to discern a principle, TG published another post title. I may just stop using the title. If I want a title to show up, I'll put it in the body of the post.</p>]]></description>
+            <link>https://thegrid.ai/learningthegrid/73a3c983-03c5-47d4-adc3-1a2b8c421f21/index.html</link>
+            <guid isPermaLink="false">73a3c983-03c5-47d4-adc3-1a2b8c421f21</guid>
+            <pubDate>Sun, 15 Nov 2015 12:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How The Grid Sees "Posts"]]></title>
             <description><![CDATA[<article><h1>How The Grid Sees "Posts"</h1><p>I am beginning to discern that how The Grid sees "posts" are very different from how I saw them. A post to them is just a few words and an image, and they're all intended to be displayed on the same page.</p></article>]]></description>
