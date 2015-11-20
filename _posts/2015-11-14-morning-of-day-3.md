@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Posts are uneditable
-datePublished: '2015-11-14T13:26:28.361Z'
-dateModified: '2015-11-14T13:24:37.796Z'
+datePublished: '2015-11-20T23:16:22.451Z'
+dateModified: '2015-11-20T23:16:19.626Z'
 title: Morning of Day 3
+sourcePath: _posts/2015-11-14-morning-of-day-3.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-14-morning-of-day-3.md
-published: true
 url: morning-of-day-3/index.html
 _type: Article
 
